@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample", "ClassExample\ClassExample.csproj", "{D2CA3C96-FA21-403C-BA23-80AEB87F9DDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr8_Холомеев", "pr8_Холомеев\pr8_Холомеев.csproj", "{5C2B3694-30C1-4FD7-9D31-1CE6822DDF8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr8.1_Холомеев", "pr8.1_Холомеев\pr8.1_Холомеев.csproj", "{5C2B3694-30C1-4FD7-9D31-1CE6822DDF8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{7F5A86CC-35E0-4C49-B0C9-03BDC91FA061}"
 EndProject
