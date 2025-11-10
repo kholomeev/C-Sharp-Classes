@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr8.1_Холомеев", "p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{7F5A86CC-35E0-4C49-B0C9-03BDC91FA061}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr8.2_Холомеев", "pr8.2_Холомеев\pr8.2_Холомеев.csproj", "{CADD391E-82E9-491D-8B86-98949D382BFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7F5A86CC-35E0-4C49-B0C9-03BDC91FA061}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F5A86CC-35E0-4C49-B0C9-03BDC91FA061}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F5A86CC-35E0-4C49-B0C9-03BDC91FA061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADD391E-82E9-491D-8B86-98949D382BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADD391E-82E9-491D-8B86-98949D382BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADD391E-82E9-491D-8B86-98949D382BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADD391E-82E9-491D-8B86-98949D382BFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
